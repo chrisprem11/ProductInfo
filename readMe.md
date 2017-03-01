@@ -1,2 +1,6 @@
 Interfaces - 
-To be updated
+------------------
+Item Repository
+InvoiceRepository
+CustomerRepository
+Pending Invoice Repository
